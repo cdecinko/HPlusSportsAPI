@@ -1,0 +1,11 @@
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\bin\Debug\netcoreapp2.0\HPlusSportsAPI.deps.json
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\bin\Debug\netcoreapp2.0\HPlusSportsAPI.runtimeconfig.json
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\bin\Debug\netcoreapp2.0\HPlusSportsAPI.runtimeconfig.dev.json
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\bin\Debug\netcoreapp2.0\HPlusSportsAPI.dll
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\bin\Debug\netcoreapp2.0\HPlusSportsAPI.pdb
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.csprojResolveAssemblyReference.cache
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.AssemblyInfoInputs.cache
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.AssemblyInfo.cs
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.dll
+C:\Users\Connie\Documents\Visual Studio 2017\Projects\HPlusSportsAPI\HPlusSportsAPI\obj\Debug\netcoreapp2.0\HPlusSportsAPI.pdb
